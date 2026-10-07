@@ -1,0 +1,4 @@
+name: "Juice Shop CodeQL config"
+paths-ignore:
+  # code snippets for the "Coding Challenges" are intentionally partial and do not parse
+  - data/static/codefixes
